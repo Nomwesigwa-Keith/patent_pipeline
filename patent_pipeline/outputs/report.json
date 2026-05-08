@@ -1,0 +1,93 @@
+{
+  "total_patents": 9454161,
+  "analyzed_total_patents": 9454161,
+  "year_range": {
+    "from": 1976,
+    "to": 2025
+  },
+  "top_inventors": [
+    {
+      "name": "Shunpei Yamazaki",
+      "patent_count": 6787
+    },
+    {
+      "name": "Kia Silverbrook",
+      "patent_count": 4778
+    },
+    {
+      "name": "Tao Luo",
+      "patent_count": 4490
+    },
+    {
+      "name": "Jonathan P. Ive",
+      "patent_count": 2947
+    },
+    {
+      "name": "Junyi Li",
+      "patent_count": 2881
+    },
+    {
+      "name": "Kangguo Cheng",
+      "patent_count": 2835
+    },
+    {
+      "name": "Frederick E. Shelton, IV",
+      "patent_count": 2723
+    },
+    {
+      "name": "Peter Gaal",
+      "patent_count": 2554
+    },
+    {
+      "name": "Duncan Robert Kerr",
+      "patent_count": 2534
+    },
+    {
+      "name": "Bartley K. Andre",
+      "patent_count": 2478
+    }
+  ],
+  "top_companies": [
+    {
+      "name": "SAMSUNG DISPLAY CO., LTD.",
+      "patent_count": 174536
+    },
+    {
+      "name": "International Business Machines Corporation",
+      "patent_count": 164083
+    },
+    {
+      "name": "CANON KABUSHIKI KAISHA",
+      "patent_count": 91331
+    },
+    {
+      "name": "SONY GROUP CORPORATION",
+      "patent_count": 62911
+    },
+    {
+      "name": "Fujitsu Limited",
+      "patent_count": 56343
+    },
+    {
+      "name": "Kabushiki Kaisha Toshiba",
+      "patent_count": 53607
+    },
+    {
+      "name": "Intel Corporation",
+      "patent_count": 53219
+    },
+    {
+      "name": "General Electric Company",
+      "patent_count": 52043
+    },
+    {
+      "name": "LG ELECTRONICS INC.",
+      "patent_count": 50000
+    },
+    {
+      "name": "HITACHI, LTD.",
+      "patent_count": 46073
+    }
+  ],
+  "top_countries": []
+}
