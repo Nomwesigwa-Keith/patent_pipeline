@@ -32,8 +32,5 @@ Notes
 - Cleaned CSVs are large and excluded from the repo; regenerate with `scripts/clean.py`.
 - Deploy the dashboard on Streamlit Community Cloud (main file: `dashboard.py`).
 
-License
-- MIT
-
 Author
-- Your Name
+- Nomwesigwa Keith
