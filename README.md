@@ -1,4 +1,4 @@
-# Patent Pipeline — quick start
+# Patent Pipeline
 
 Minimal pipeline for downloading, cleaning, analyzing, and visualizing patent data.
 
@@ -21,6 +21,7 @@ Run the dashboard locally:
 ```bash
 streamlit run dashboard.py
 ```
+DASHBOARD LINK: https://patentpipeline-dgokvdnmfbtctaz2jj63sj.streamlit.app/
 
 What’s in this repo
 - `scripts/` — ETL and analysis scripts
