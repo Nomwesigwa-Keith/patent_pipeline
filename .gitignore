@@ -44,8 +44,7 @@ venv/
 *.tmp
 .DS_Store
 
-# Dashboard and other generated files
-dashboard.py
+# Other generated files (keep dashboard for Streamlit)
 imports.py
 load_output.txt
 SETUP_COMPLETE.md
