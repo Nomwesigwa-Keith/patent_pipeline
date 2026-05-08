@@ -1,0 +1,61 @@
+# Python environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Tooling
+.pytest_cache/
+.mypy_cache/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+
+# Local databases and temporary artifacts
+*.db
+*.db-shm
+*.db-wal
+*_tmp*.db
+
+# Logs
+*.log
+
+# Data files
+data/
+
+# Generated outputs
+outputs/
+
+# Python and environment
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/
+
+# Temporary files
+*.tmp
+.DS_Store
+
+# Dashboard and other generated files
+dashboard.py
+imports.py
+load_output.txt
+SETUP_COMPLETE.md
+QUICKSTART.md
+DELIVERABLES.md
+DATA_DICTIONARY.md
+
+# VS Code and Streamlit config
+.vscode/
+.streamlit/
+
+# Local Python environment
+.venv/
+
+# Ignore backup of embedded repo metadata
+patent_pipeline/.git_backup/
