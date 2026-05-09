@@ -3,7 +3,7 @@
 Minimal pipeline for downloading, cleaning, analyzing, and visualizing patent data.
 
 Quick start
-- Clone: `git clone https://github.com/Nomwesigwa-Keith/patent_pipeline`
+- Github REPO:(https://github.com/Nomwesigwa-Keith/patent_pipeline.git)
 - Install: `pip install -r requirements.txt`
 - Run sample pipeline:
 
